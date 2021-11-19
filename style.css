@@ -26,6 +26,7 @@ body {
 }
 
 .output-viewer {
+    font-size: 2em;
     width: 85%;
     height: 75%;
     border: black solid 1px;
